@@ -1,0 +1,13 @@
+{
+    "name": "malescast/rate",
+    "description": "paket integrasi laravel dan fixer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ariskusnulwiditama",
+            "email": "ariskusnul@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
